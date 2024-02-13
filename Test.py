@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import unittest
 from Prog1 import summation
 class TestSum(unittest.TestCase):

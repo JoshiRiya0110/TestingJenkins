@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import java.util.*;
 import java.io.*;
 import java.lang.*;

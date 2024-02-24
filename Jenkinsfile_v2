@@ -3,7 +3,7 @@ pipeline {
     stages {
     stage('Cleanup') {
             steps {
-                sh "rm -rf TestingJenkins"
+                sh "rm -rf TestingJenkins" 
             }
         }
         stage('Clone Git') {

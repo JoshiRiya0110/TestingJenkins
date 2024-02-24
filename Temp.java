@@ -9,6 +9,6 @@ public class Temp{
 		System.out.println("Testing Jenkins1");
 		System.out.println("Testing Jenkins2");
 		System.out.println("Testing Jenkins3");
-		System.out.println("Testing Jenkins4 ");
+		System.out.println("Testing Jenkins4");
 	}
 }
